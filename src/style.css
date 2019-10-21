@@ -1,0 +1,39 @@
+body{
+  background: #161616 !important;
+}
+
+.App{
+  margin: 0px !important;
+  padding: 0px !important;
+
+  height: 100vh;
+  width: 100vw;
+}
+
+.OuterContainer, .sidebar{
+  background: #161616 !important;
+  height: 100%;
+}
+
+.MainOuterContainer{
+  margin: 0px !important;
+  padding: 0px !important;
+
+  height: 100vh !important;
+  width: 100vw !important;
+}
+
+.MainInnerContainer{
+  margin: 0px !important;
+  padding: 0px !important;
+
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.Main{
+  background: #FFFFFF !important;
+
+  height: 100% !important;
+  width: 100% !important;
+}
